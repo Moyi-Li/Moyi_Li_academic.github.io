@@ -6,7 +6,7 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.kaggle.com/competitions/csestat-416-23sp-assignment-5/overview'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -30,4 +30,8 @@ url_video: ''
 # slides: example
 ---
 
-hi this is mollu.
+### Overview:
+This is a machine leanring project.
+
+https://www.kaggle.com/competitions/csestat-416-23sp-assignment-5/overview
+
