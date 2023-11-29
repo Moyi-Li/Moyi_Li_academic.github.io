@@ -30,8 +30,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-Overview:
-This is a machine leanring project.
-
-https://www.kaggle.com/competitions/csestat-416-23sp-assignment-5/overview

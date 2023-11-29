@@ -25,7 +25,7 @@ organizations:
     url: https://www.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ??? short bio 28 ???
+bio: Passionate about Data Science and analysis!
 
 # Interests to show in About widget
 interests:
