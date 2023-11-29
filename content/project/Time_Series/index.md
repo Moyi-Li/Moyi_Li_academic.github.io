@@ -10,6 +10,8 @@ image:
   focal_point: Smart
 ---
 
-<object data="https://raw.githubusercontent.com/Moyi-Li/Moyi_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf" type="application/pdf" width="100%" height="600px">
-  <p>If you cannot preview the file. You may try <a href="https://raw.githubusercontent.com/Moyi-Li/Moyi_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf">download the PDF here </a>.</p>
-</object>
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Moyi-Li/Moyi_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf&embedded=true" width="100%" height="600px" frameborder="0"></iframe>
+
+
+[You may also try download the link here](https://github.com/Moyi-Li/Time_Series_Analysis)
+
