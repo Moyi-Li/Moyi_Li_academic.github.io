@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: "BSc in Applied Mathematics\: DS track"
+    - course: BSc in Applied Mathematics - DS track
       institution: University of Washington
       year: 09/2021 - 06/2024
     # - course: MEng in Artificial Intelligence
