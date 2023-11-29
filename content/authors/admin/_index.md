@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Applied Mathematics - DS track
+    - course: BSc in Applied Mathematics
       institution: University of Washington
       year: 09/2021 - 06/2024
     # - course: MEng in Artificial Intelligence
@@ -105,7 +105,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Moyi-Li
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
