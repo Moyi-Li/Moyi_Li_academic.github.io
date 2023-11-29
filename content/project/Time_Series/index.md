@@ -10,6 +10,6 @@ image:
   focal_point: Smart
 ---
 
-<object data="https://raw.githubusercontent.com/Mori-Li/Mori_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf" type="application/pdf" width="100%" height="600px">
-  <p>It appears you don't have a PDF plugin for this browser. You can <a href="https://raw.githubusercontent.com/Mori-Li/Mori_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf">download the PDF file</a>.</p>
+<object data="https://raw.githubusercontent.com/Moyi-Li/Moyi_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf" type="application/pdf" width="100%" height="600px">
+  <p>If you cannot preview the file. You may try <a href="https://raw.githubusercontent.com/Moyi-Li/Moyi_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf">download the PDF here </a>.</p>
 </object>
