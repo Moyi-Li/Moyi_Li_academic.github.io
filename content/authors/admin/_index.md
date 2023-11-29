@@ -105,7 +105,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Moyi-Li
+    link: 'https://github.com/Moyi-Li'
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
