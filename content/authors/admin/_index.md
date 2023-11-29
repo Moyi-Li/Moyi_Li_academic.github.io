@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-Moyi Li is a senior undergraduate student in Aapplied Mathematics department at University of Washington. She is smart.
+Moyi Li is a senior undergraduate student in Aapplied Mathematics department at University of Washington. She is a motivated, 
 
 {style="text-align: justify;"}

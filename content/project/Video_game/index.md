@@ -1,5 +1,5 @@
 ---
-title: Industry Video_Game_Analysis
+title: Industry Video Game Analysis
 summary: Group project / Python
 tags:
   - Python
