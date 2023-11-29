@@ -5,8 +5,10 @@ tags:
   - R
 date: "2023-10-27T00:00:00Z"
 
-url: https://raw.githubusercontent.com/Moyi-Li/Moyi_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf
+# Optional external URL for project (replaces project detail page).
+external_link: https://github.com/Moyi-Li/Time_Series_Analysis/blob/main/Time_series_analysis.pdf
+
+image:
+  caption: Photo by Toa Heftiba on Unsplash
+  focal_point: Smart
 ---
-
-[You may also try download the link here](https://github.com/Moyi-Li/Time_Series_Analysis)
-
