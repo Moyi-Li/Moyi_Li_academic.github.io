@@ -31,12 +31,12 @@ bio: Passionate about Data Science and analysis!
 interests:
   - Machine Learning
   - Database Management Systems
-  - Visulization
+  - Data Visulization
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Applied Mathematics
+    - course: "BSc in Applied Mathematics\: DS track"
       institution: University of Washington
       year: 09/2021 - 06/2024
     # - course: MEng in Artificial Intelligence
