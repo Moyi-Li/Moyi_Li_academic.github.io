@@ -6,7 +6,7 @@ tags:
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/Moyi-Li/EdX_Machine_Learning'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -30,10 +30,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-As a Group Leader, I led a group project of CSE416 at University of Washington focused on EdX student model training and evaluation. In this role, I applied various machine learning models, including Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forests, AdaBoost, and Neural Networks, to predict course completion using anonymized student data. Our team achieved an outstanding 98.2% prediction accuracy in a Kaggle competition, securing the top position among 81 participating teams.
-
-Related Links:
-[Kaggle Competition Overview](https://www.kaggle.com/competitions/csestat-416-23sp-assignment-5/overview)
-
-[Github repository](https://github.com/Moyi-Li/EdX_Machine_Learning)

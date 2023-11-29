@@ -6,7 +6,7 @@ tags:
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/Moyi-Li/Video_Game_Analysis'
 
 image:
   caption: Photo by rawpixel on Unsplash
