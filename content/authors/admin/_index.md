@@ -2,8 +2,8 @@
 # Display name
 title: Moyi Li
 
-# Name pronunciation (optional)
-name_pronunciation: Moyi Li
+# # Name pronunciation (optional)
+# name_pronunciation: Moyi Li
 
 # Full name (for SEO)
 first_name: Moyi
@@ -103,9 +103,9 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -120,5 +120,6 @@ social:
 highlight_name: true
 ---
 
-Moyi Li is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Moyi Li is a senior undergraduate student in Aapplied Mathematics department at University of Washington. She is smart.
+
 {style="text-align: justify;"}
