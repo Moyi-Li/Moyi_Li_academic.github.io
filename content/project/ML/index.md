@@ -1,8 +1,8 @@
 ---
 title: EdX student Model Training and Evaluation
-summary: An group project
+summary: Group project / Python
 tags:
-  - Demo
+  - Python
 date: "2023-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

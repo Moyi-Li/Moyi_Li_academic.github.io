@@ -1,8 +1,8 @@
 ---
 title: Industry Video_Game_Analysis
-summary: An group project
+summary: Group project / Python
 tags:
-  - Demo
+  - Python
 date: "2023-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
