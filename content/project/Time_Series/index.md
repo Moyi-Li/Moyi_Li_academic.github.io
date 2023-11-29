@@ -8,7 +8,7 @@ date: "2023-10-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 # external_link: https://github.com/Moyi-Li/Interactive-Webpage-for-Cancer-Mortality-Analysis
 
-url_pdf: content/project/Time_Series/Time_series_analysis.pdf
+url_pdf: https://raw.githubusercontent.com/Moyi-Li/Moyi_Li_academic.github.io/main/content/project/Time_Series/Time_series_analysis.pdf
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
