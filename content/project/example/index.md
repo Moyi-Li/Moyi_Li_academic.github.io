@@ -17,6 +17,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,8 +31,7 @@ url_video: ''
 # slides: example
 ---
 
-### Overview:
+Overview:
 This is a machine leanring project.
 
 https://www.kaggle.com/competitions/csestat-416-23sp-assignment-5/overview
-
