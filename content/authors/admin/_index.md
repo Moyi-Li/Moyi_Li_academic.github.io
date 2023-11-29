@@ -103,23 +103,25 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/Moyi_Resume_DS_final.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Moyi_Resume_DS_final.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Moyi Li is a senior undergraduate student in Aapplied Mathematics department at University of Washington. She is a motivated, 
+Moyi Li is a senior undergraduate student at the University of Washington. She expects to graduate in Spring 2024 with a Bachelor's degree in Applied Mathematics: DS track and double minors in Informatics and Data Science. As a future data scientist, she is highly motivated to learn powerful DS tools and advanced data application methods. Her career goal is to start a startup enterprise where she can share her accumulated experience and expertise in delivering distinctive value to the community and the risk management sector.
+
+In her free time, she enjoys skiing and trying her hand at various cuisines—her specialties include California rolls, Kung Pao chicken, and chocolate cookies. She also enjoys spending time with her friends on Nintendo games, with her favorites being Animal Crossing and The Legend of Zelda.
 
 {style="text-align: justify;"}
