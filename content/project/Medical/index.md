@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Medical_Appointment_Reservation_System
+summary: An group project
 tags:
   - Demo
 date: "2023-03-27T00:00:00Z"
