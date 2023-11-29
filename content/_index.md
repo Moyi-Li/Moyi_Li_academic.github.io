@@ -178,7 +178,7 @@ sections:
         - name: SQL
           tag: SQL
         - name: QGIS
-        tag: QGIS
+          tag: QGIS
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
